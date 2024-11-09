@@ -54,12 +54,4 @@ Scraped 50 company URLs.
 ```
 
 A `company_urls.csv` file will be generated in the same directory containing the URLs of company pages from Wikipedia.
-
-## Notes
-
-- The list of companies is fetched from the [Wikipedia:WikiProject_Companies](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Companies) page, so the script depends on that page structure.
-- Make sure to respect Wikipedia's terms of use and don't overload their servers with requests.
-
-
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8caef7d6-2bd2-4221-91c8-61fbc761ad83)
